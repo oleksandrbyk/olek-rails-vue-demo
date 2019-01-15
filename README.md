@@ -20,8 +20,8 @@ You can read more about the how and why I built this App here: http://www.guilla
 ## Installation
 
 ```
-git clone git@github.com:gbarillot/rails-vue-demo-app.git
-cd rails-vue-demo-app
+git clone git@github.com:oleksandrbyk/olek-rails-vue-demo.git
+cd olek-rails-vue-demo
 bundle install
 yarn install
 bundle exec rails db:migrate
